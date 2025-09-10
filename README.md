@@ -1,5 +1,5 @@
 Project: Productivity Tracker - Chrome Extension
-Author: Anjan Ghosh
+Author: Monalisha Mahapatra
 Internship Task: Codtech IT Solutions - Task 4
 ----------------------------------------------------------------------
 Overview
